@@ -10,3 +10,54 @@ output:
 ---
 
 # Overview
+
+[video1 - intro, I am, and info about this session and the next]
+
+[video2 - ambiguity in language]
+
+[video3 - methods - eye tracking]
+
+&nbsp;&nbsp;
+
+In the next video, you'll see Keith Rayner - one of most influential researchers into eye-movements and reading - give an overview of the processes by which the eyes move during reading.
+
+&nbsp;&nbsp;
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zQmf5TkJrJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+
+&nbsp;&nbsp;
+
+In the next video, you'll learn about the protocol behind running an eye-tracking study.
+
+<center>
+
+<iframe allowTransparency="true" allow="encrypted-media *" allowfullscreen height="415" width="460" border="0" scrolling="no" frameborder="0" marginwheight="0" marginwidth="0" src="https://www.jove.com/embed/player?id=50780&t=1&s=1&fpv=1" ><p><a title="Using Eye Movements to Evaluate the Cognitive Processes Involved in Text Comprehension" href="https://www.jove.com/v/50780/using-eye-movements-to-evaluate-cognitive-processes-involved-text">Using Eye Movements to Evaluate the Cognitive Processes Involved in Text Comprehension</a></p></iframe>
+
+&nbsp;&nbsp;
+
+</center>
+
+The next video provides an overview of Electroencephalography (EEG). We use this technique a lot in language processing research.
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tZcKT4l_JZk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+
+[video4 - EEG]
+
+&nbsp;&nbsp;
+
+[video5 - parsing]
+
+[video6 - discourse processing]
+
+[video7 - inferences]
+
+add links to Sophie Scott lang lecture
+
