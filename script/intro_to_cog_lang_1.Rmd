@@ -59,5 +59,15 @@ The next video provides an overview of Electroencephalography (EEG). We use this
 
 [video7 - inferences]
 
+[video8 - event indexing model]
+
+Mitchell and Webb Caeser
+
+https://youtu.be/tPGc9lYFyZ0
+
+[video9 - anaphors]
+
+[video10 - quantfiers, depth of processing and summary]
+
 add links to Sophie Scott lang lecture
 
