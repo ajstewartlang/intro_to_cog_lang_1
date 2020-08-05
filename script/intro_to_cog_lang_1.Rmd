@@ -11,30 +11,54 @@ output:
 
 # Overview
 
-Welcome to this lecture on Language. As with the rest of the lectures in this unit, the material is supported by the Eyesenck and Keane Cognitive Psychology book. The chapter linked to this lecture is Chapter 10 (Language Comprehension) You can access the book by clicking on the image below.
+Welcome to this lecture on Language. As with the rest of the lectures in this unit, the material is supported by the Eyesenck and Keane Cognitive Psychology book. The chapter linked to this lecture is Chapter 10 (Language Comprehension). You can access the book by clicking on the image below.
 
 &nbsp;&nbsp;
 
 <center>
 
-[![Link to chapter](../images/chapter_10.png)](https://ebookcentral.proquest.com/lib/manchester/reader.action?docID=1974350)
+[![Link to chapter](../images/chapter_10.png){width=50%}](https://ebookcentral.proquest.com/lib/manchester/reader.action?docID=1974350)
 
-<center>
+</center>
 
 &nbsp;&nbsp;
 
-This session is made up of a number of videos and links to various resources that I hope you'll find interesting. You can download the slides that you see in each of the videos in either .pdf or .odp format by clicking on the appropriate link that follows each of the videos. The videos are recorded in 1080p resolution, so please do watch them in full screen mode. The audio I've recorded using a podcasting microphone and I recommend you listen with headphones. YouTube generates subtitles automatically and I suggest you turn them on. Most of the time the subtitles are very accurate - but occassionally they can go very wrong!
+This session is made up of a number of videos and links to various resources that I hope you'll find interesting. You can download the full set of slides that I use in these videos in either .pdf or .odp format by clicking on the appropriate link that follows each of the videos. The videos are recorded in 1080p resolution, so please do watch them in full screen mode. The audio I've recorded using a podcasting microphone and I recommend you listen with headphones. YouTube generates subtitles automatically and I suggest you turn them on. Most of the time the subtitles are very accurate - but occassionally they can go very wrong!
+
+# Part 1 - Introduction
 
 [video1 - intro, I am, and info about this session and the next]
 
-Download the slides in .pdf format.
-Download the slides in .odp format.
+Download the slides for this lecture in [.pdf format.]
+Download the slides for this lecture in [.odp format.]
+
+# Part 2 - Ambiguity
+
+In this next video, I will introduce you to some of the different types of ambiguity that are pervasive in language.
 
 [video2 - ambiguity in language]
+
+## The Two Ronnies
+
+After viewing the previous video, have a look at this classic comedy sketch from the BBC comedy series The Two Ronnies (ask your parents) where they demonstrate some of the ways in which ambiguity can arise in speech comprehension.
+
+&nbsp;&nbsp;
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gi_6SaqVQSw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+
+&nbsp;&nbsp;
+
+# Part 3 - Methods
 
 [video3 - methods - eye tracking]
 
 &nbsp;&nbsp;
+
+## Keith Rayner
 
 In the next video, you'll see Keith Rayner - one of most influential researchers into eye-movements and reading - give an overview of the processes by which the eyes move during reading.
 
@@ -48,7 +72,11 @@ In the next video, you'll see Keith Rayner - one of most influential researchers
 
 &nbsp;&nbsp;
 
+## Protocol for an Eye-Tracking Study
+
 In the next video, you'll learn about the protocol behind running an eye-tracking study.
+
+&nbsp;&nbsp;
 
 <center>
 
@@ -58,13 +86,19 @@ In the next video, you'll learn about the protocol behind running an eye-trackin
 
 </center>
 
+## An Overview of EEG
+
 The next video provides an overview of Electroencephalography (EEG). We use this technique a lot in language processing research.
+
+&nbsp;&nbsp;
 
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tZcKT4l_JZk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </center>
+
+&nbsp;&nbsp;
 
 [video4 - EEG]
 
@@ -80,7 +114,16 @@ The next video provides an overview of Electroencephalography (EEG). We use this
 
 Mitchell and Webb Caeser
 
-https://youtu.be/tPGc9lYFyZ0
+&nbsp;&nbsp;
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPGc9lYFyZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+
+&nbsp;&nbsp;
+
 
 [video9 - anaphors]
 
