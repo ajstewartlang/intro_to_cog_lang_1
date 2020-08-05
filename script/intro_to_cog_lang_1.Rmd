@@ -86,9 +86,13 @@ In the next video, you'll learn about the protocol behind running an eye-trackin
 
 </center>
 
+# Part 4 - EEG
+
+[video4]
+
 ## An Overview of EEG
 
-The next video provides an overview of Electroencephalography (EEG). We use this technique a lot in language processing research.
+The next video provides an overview of Electroencephalography (EEG). We use this (and related) techniques extensively in language processing research.
 
 &nbsp;&nbsp;
 
@@ -100,17 +104,23 @@ The next video provides an overview of Electroencephalography (EEG). We use this
 
 &nbsp;&nbsp;
 
-[video4 - EEG]
-
-&nbsp;&nbsp;
+# Part 5 - Parsing
 
 [video5 - parsing]
 
+# Part 6 - Discourse Processing
+
 [video6 - discourse processing]
+
+# Part 7 - Inferences
 
 [video7 - inferences]
 
+# Part 8 - The Event-Indexing Model
+
 [video8 - event indexing model]
+
+# Part 9 - Anaphors
 
 Mitchell and Webb Caeser
 
@@ -124,8 +134,9 @@ Mitchell and Webb Caeser
 
 &nbsp;&nbsp;
 
-
 [video9 - anaphors]
+
+# Part 10 - Quantifiers, Depth of Processing, and Summary
 
 [video10 - quantifiers, depth of processing and summary]
 
