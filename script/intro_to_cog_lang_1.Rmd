@@ -11,10 +11,24 @@ output:
 
 # Overview
 
-Intro
-add link to textbook chapter
+Welcome to this lecture on Language. As with the rest of the lectures in this unit, the material is supported by the Eyesenck and Keane Cognitive Psychology book. The chapter linked to this lecture is Chapter 10 (Language Comprehension) You can access the book by clicking on the image below.
+
+&nbsp;&nbsp;
+
+<center>
+
+[![Link to chapter](../images/chapter_10.png)](https://ebookcentral.proquest.com/lib/manchester/reader.action?docID=1974350)
+
+<center>
+
+&nbsp;&nbsp;
+
+This session is made up of a number of videos and links to various resources that I hope you'll find interesting. You can download the slides that you see in each of the videos in either .pdf or .odp format by clicking on the appropriate link that follows each of the videos. The videos are recorded in 1080p resolution, so please do watch them in full screen mode. The audio I've recorded using a podcasting microphone and I recommend you listen with headphones. YouTube generates subtitles automatically and I suggest you turn them on. Most of the time the subtitles are very accurate - but occassionally they can go very wrong!
 
 [video1 - intro, I am, and info about this session and the next]
+
+Download the slides in .pdf format.
+Download the slides in .odp format.
 
 [video2 - ambiguity in language]
 
