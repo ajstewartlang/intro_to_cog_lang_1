@@ -170,21 +170,6 @@ In this final part, we'll have a look at some other interesting phenomena in the
 
 [video10 - quantifiers, depth of processing and summary]
 
-## Additional Resources
-
-If you are interested in learning more about language, I recommend you watch The Royal Institution Christmas lecture series on language and communication from 2017 delivered by Sophie Scott (UCL). Just click on the image below to be taken to The Royal Institute page.
-
-&nbsp;&nbsp;
-
-<center>
-
-[![Sophie Scott RI lectures](../images/sophie_scott.png){width=80%}](https://www.rigb.org/christmas-lectures/2017-the-language-of-life)
-
-</center>
-
-&nbsp;&nbsp;
-
-&nbsp;&nbsp;
 
 ## Technical Details
 
