@@ -78,7 +78,7 @@ In this part, we'll take a look at some of the techniques used to investigate hu
 
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/K5WU3Pl2j6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/CpN7t75BXuE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </center>
 
@@ -128,7 +128,15 @@ In the next video, you'll learn about how to set up and run an eye-tracking stud
 
 The measurement of brain activity via changes in electrical activity across the scalp can tell us much about the moment-by-moment processes associated with written and spoken language comprehension.
 
-[video 4]
+&nbsp;&nbsp;
+
+<center>
+
+<iframe width="560" height="315" src="https://youtu.be/sR4tXmXH3Q4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+
+&nbsp;&nbsp;
 
 ## An Overview of EEG
 
@@ -148,31 +156,71 @@ The next video provides an overview of Electroencephalography (EEG). We use this
 
 Parsing is the means by which we understand the structural relationships between different words in a sentence. Different types of information can be used to inform this process, and many decades of research in experimental psychology set out to examine how and when their influence on parsing occurs.
 
-[video5 - parsing]
+&nbsp;&nbsp;
+
+<center>
+
+<iframe width="560" height="315" src="https://youtu.be/embed/GyUICAMYcMw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+
+&nbsp;&nbsp;
 
 # Part 6 - Discourse Processing
 
 Discourse processing is the means by which we connect together different pieces of text (e.g., sentence) that we are reading. During reading, we very quickly forget the literal form of the text we have read - what we remember is the 'gist' or the broad meaning associated with the text. A landmark study by [Bransford, Barclay, and Franks (1972)](https://www.sciencedirect.com/science/article/abs/pii/0010028572900035) provided strong evidence to support this view.
 
-[video6 - discourse processing]
+&nbsp;&nbsp;
+
+<center>
+
+<iframe width="560" height="315" src="https://youtu.be/embed/6gZtMpl-r_Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+
+&nbsp;&nbsp;
 
 # Part 7 - Inferences
 
 One of the challenges when reading a sequence of sentneces is being able to mentally connect their meanings to form a coherent narrative. Very often, we need to make inferences that go above and beyond the information explicitly given in a text to do this.
 
-[video7 - inferences]
+&nbsp;&nbsp;
+
+<center>
+
+<iframe width="560" height="315" src="https://youtu.be/embed/8aoxRf0fF4c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+
+&nbsp;&nbsp;
 
 # Part 8 - The Event-Indexing Model
 
 [The Event-Indexing Model](https://www.jstor.org/stable/40063035?seq=1) provides a useful theoretical framework to help us understand how readers keep track of different elements in a text. In addition to its initial application to understanding how readers mentally represent text, it has also been applied to how viewers remember and represent the structure of [movies](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.69.6574&rep=rep1&type=pdf).
 
-[video8 - event indexing model]
+&nbsp;&nbsp;
+
+<center>
+
+<iframe width="560" height="315" src="https://youtu.be/embed/Rzo_aQVkd0U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+
+&nbsp;&nbsp;
 
 # Part 9 - Anaphors
 
 The same person can be referred to using in many different ways - for example, 'he', 'Andrew', 'Dr Stewart', 'the lecturer with the funny accent' can all be used to refer to me. These are example of *anaphors* and they largely inherit their meaning from the entity to which they refer. 
 
-[video9]
+&nbsp;&nbsp;
+
+<center>
+
+<iframe width="560" height="315" src="https://youtu.be/embed/s4P2fSWIMaY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+
+&nbsp;&nbsp;
 
 Have a look at this great Mitchell and Webb clip where they show just how tricky it is to know what's going on when the normal rules of how anaphors should be used are ignored.
 
@@ -190,8 +238,15 @@ Have a look at this great Mitchell and Webb clip where they show just how tricky
 
 In this final part, we'll have a look at some other interesting phenomena in the context of language processing before wrapping up with a bit of a summary.
 
-[video10 - quantifiers, depth of processing and summary]
+&nbsp;&nbsp;
 
+<center>
+
+<iframe width="560" height="315" src="https://youtu.be/embed/gOi_xwpzmHM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+
+&nbsp;&nbsp;
 
 ## Technical Details
 
