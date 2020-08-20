@@ -50,7 +50,7 @@ In this next video, I will introduce you to some of the different types of ambig
 
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/K5WU3Pl2j6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/embed/K5WU3Pl2j6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </center>
 
@@ -78,7 +78,7 @@ In this part, we'll take a look at some of the techniques used to investigate hu
 
 <center>
 
-<iframe width="560" height="315" src="https://youtu.be/CpN7t75BXuE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/embed/CpN7t75BXuE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </center>
 
@@ -132,7 +132,7 @@ The measurement of brain activity via changes in electrical activity across the 
 
 <center>
 
-<iframe width="560" height="315" src="https://youtu.be/sR4tXmXH3Q4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/embed/sR4tXmXH3Q4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </center>
 
