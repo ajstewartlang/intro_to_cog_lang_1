@@ -36,7 +36,7 @@ In this first video, you'll hear a little bit about me and my background, inform
 
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4tMurHgywlQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/4tMurHgywlQ" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
@@ -50,7 +50,7 @@ In this next video, I will introduce you to some of the different types of ambig
 
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/embed/K5WU3Pl2j6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/K5WU3Pl2j6s" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
@@ -78,7 +78,7 @@ In this part, we'll take a look at some of the techniques used to investigate hu
 
 <center>
 
-<iframe width="560" height="315" src="https://youtu.be/embed/CpN7t75BXuE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/CpN7t75BXuE" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
@@ -132,7 +132,7 @@ The measurement of brain activity via changes in electrical activity across the 
 
 <center>
 
-<iframe width="560" height="315" src="https://youtu.be/embed/sR4tXmXH3Q4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/sR4tXmXH3Q4" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
@@ -160,7 +160,7 @@ Parsing is the means by which we understand the structural relationships between
 
 <center>
 
-<iframe width="560" height="315" src="https://youtu.be/embed/GyUICAMYcMw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/GyUICAMYcMw" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
@@ -174,7 +174,7 @@ Discourse processing is the means by which we connect together different pieces 
 
 <center>
 
-<iframe width="560" height="315" src="https://youtu.be/embed/6gZtMpl-r_Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/6gZtMpl-r_Q" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
@@ -188,7 +188,7 @@ One of the challenges when reading a sequence of sentneces is being able to ment
 
 <center>
 
-<iframe width="560" height="315" src="https://youtu.be/embed/8aoxRf0fF4c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/8aoxRf0fF4c" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
@@ -202,7 +202,7 @@ One of the challenges when reading a sequence of sentneces is being able to ment
 
 <center>
 
-<iframe width="560" height="315" src="https://youtu.be/embed/Rzo_aQVkd0U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/Rzo_aQVkd0U" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
@@ -216,7 +216,7 @@ The same person can be referred to using in many different ways - for example, '
 
 <center>
 
-<iframe width="560" height="315" src="https://youtu.be/embed/s4P2fSWIMaY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/s4P2fSWIMaY" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
@@ -242,7 +242,7 @@ In this final part, we'll have a look at some other interesting phenomena in the
 
 <center>
 
-<iframe width="560" height="315" src="https://youtu.be/embed/gOi_xwpzmHM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/gOi_xwpzmHM" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
