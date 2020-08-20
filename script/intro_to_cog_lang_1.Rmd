@@ -30,13 +30,13 @@ Download the slides for this lecture in [.odp format.](../slides/Language_1.odp)
 
 # Part 1 - Introduction
 
-In this first video, you'll hear a little bit about me and my background, information about this lecture, any why Psychologists study language in the first place.
+In this first video, you'll hear a little bit about me and my background, information about this lecture, and why Psychologists study language in the first place.
 
 &nbsp;&nbsp;
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/4tMurHgywlQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/69E9eVlDkqI" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
@@ -72,7 +72,7 @@ After viewing the previous video, have a look at this classic comedy sketch from
 
 # Part 3 - Methods
 
-In this part, we'll take a look at some of the techniques used to investigate human language processing. We'll focus first on eye-tracking (tracking people's eyes as they read or listen to spoken language) and what eye-movements can tell us about language processing.
+In this part, we'll take a look at some of the techniques used to investigate human language processing. We'll focus first on eye-tracking (tracking people's eyes as they read) and what eye-movements can tell us about language processing.
 
 &nbsp;&nbsp;
 
@@ -168,7 +168,7 @@ Parsing is the means by which we understand the structural relationships between
 
 # Part 6 - Discourse Processing
 
-Discourse processing is the means by which we connect together different pieces of text (e.g., sentence) that we are reading. During reading, we very quickly forget the literal form of the text we have read - what we remember is the 'gist' or the broad meaning associated with the text. A landmark study by [Bransford, Barclay, and Franks (1972)](https://www.sciencedirect.com/science/article/abs/pii/0010028572900035) provided strong evidence to support this view.
+Discourse processing is the means by which we connect different pieces of text (e.g., sentences) that we are reading. During reading, we very quickly forget the literal form of the text we have read - what we remember is the 'gist' or the broad meaning associated with the text. A landmark study by [Bransford, Barclay, and Franks (1972)](https://www.sciencedirect.com/science/article/abs/pii/0010028572900035) provided strong evidence to support this view.
 
 &nbsp;&nbsp;
 
@@ -182,7 +182,7 @@ Discourse processing is the means by which we connect together different pieces 
 
 # Part 7 - Inferences
 
-One of the challenges when reading a sequence of sentneces is being able to mentally connect their meanings to form a coherent narrative. Very often, we need to make inferences that go above and beyond the information explicitly given in a text to do this.
+One of the challenges when reading a sequence of sentences is being able to mentally connect their meanings to form a coherent narrative. Very often, we need to make inferences that go above and beyond the information explicitly given in a text to do this.
 
 &nbsp;&nbsp;
 
