@@ -25,20 +25,36 @@ Welcome to this first lecture on Language. As with the rest of the lectures in t
 
 This session is made up of a number of videos and links to various resources that I hope you'll find interesting. You can download the full set of slides that I use in these videos in either .pdf or .odp format by clicking on the appropriate link. The videos are recorded in 1080p resolution, so please do watch them in full screen mode. I've recorded the audio using a podcasting microphone and I recommend you listen with headphones. YouTube generates subtitles automatically and I suggest you turn them on. Most of the time the subtitles are very accurate - but occasionally can go very wrong!
 
-Download the slides for this lecture in [.pdf format.]
-Download the slides for this lecture in [.odp format.]
+Download the slides for this lecture in [.pdf format.](../slides/Language_1.pdf)
+Download the slides for this lecture in [.odp format.](../slides/Language_1.odp)
 
 # Part 1 - Introduction
 
 In this first video, you'll hear a little bit about me and my background, information about this lecture, any why Psychologists study language in the first place.
 
-[video1 - intro, I am, and info about this session and the next]
+&nbsp;&nbsp;
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4tMurHgywlQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+
+&nbsp;&nbsp;
 
 # Part 2 - Ambiguity
 
 In this next video, I will introduce you to some of the different types of ambiguity that are pervasive in language.
 
-[video2 - ambiguity in language]
+&nbsp;&nbsp;
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/K5WU3Pl2j6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+
+&nbsp;&nbsp;
 
 ## The Two Ronnies
 
@@ -58,7 +74,13 @@ After viewing the previous video, have a look at this classic comedy sketch from
 
 In this part, we'll take a look at some of the techniques used to investigate human language processing. We'll focus first on eye-tracking (tracking people's eyes as they read or listen to spoken language) and what eye-movements can tell us about language processing.
 
-[video3 - methods - eye tracking]
+&nbsp;&nbsp;
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/K5WU3Pl2j6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
 
 &nbsp;&nbsp;
 
