@@ -26,7 +26,7 @@ Welcome to this first lecture on Language. As with the rest of the lectures in t
 This session is made up of a number of videos and links to various resources that I hope you'll find interesting. You can download the full set of slides that I use in these videos in either .pdf or .odp format by clicking on the appropriate link. The videos are recorded in 1080p resolution, so please do watch them in full screen mode. I've recorded the audio using a podcasting microphone and I recommend you listen with headphones. YouTube generates subtitles automatically and I suggest you turn them on. Most of the time the subtitles are very accurate - but occasionally can go very wrong!
 
 Download the slides for this lecture in [.pdf format.](../slides/Language_1.pdf)
-Download the slides for this lecture in [.odp format.](../slides/Language_1.odp)
+Download the slides for this lecture in [Open Office format.](../slides/Language_1.odp)
 
 # Part 1 - Introduction
 
@@ -93,18 +93,6 @@ In the next video, you'll see Keith Rayner give an overview of the processes by 
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zQmf5TkJrJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</center>
-
-&nbsp;&nbsp;
-
-If you're interested in reading more about Keith's work, you might like to read this very comprehensive review article from 2009 where Keith summarises several decades worth of eye-movement reesarch in reading (as well as in scene perception and visual search). Just click on the image below to access the article - note, you'll probably have to log in with your Manchester credentials to access the full version.
-
-&nbsp;&nbsp;
-
-<center>
-
-[![Rayner paper](../images/rayner_paper.png){width=75%}](https://www.tandfonline.com/doi/full/10.1080/17470210902816461?instName=University+of+Manchester)
 
 </center>
 
